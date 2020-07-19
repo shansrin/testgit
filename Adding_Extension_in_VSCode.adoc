@@ -1,0 +1,15 @@
+== Adding Extension in Visual Studio Code
+
+. Click the *Extension Icon*.
++
+image::..\Images\Visual_Studio_Code_Extn.png[Visual_Studio_Code_Extn]
+
+. Add *AsciiDoc (by João Pinto)*.
+. Create different folders to add topics and Images as displayed below:
+
+image::..\Images\Folder_Creation.png[Folder_Creation]
+
+NOTE: To view a preview of your topic, click *Open Preview to the Side* in the tool bar.
+
+TIP: Refer to https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/ for adapting formatting styles.
+
